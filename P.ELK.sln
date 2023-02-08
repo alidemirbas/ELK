@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3E52BFFF-056D-471F-B841-B9069B7E2E82}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELK.Console", "src\ELK.Console\ELK.Console.csproj", "{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P.ELK.Console", "src\P.ELK.Console\P.ELK.Console.csproj", "{7CA59514-C079-4147-87EB-6156412B4BBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA59514-C079-4147-87EB-6156412B4BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA59514-C079-4147-87EB-6156412B4BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA59514-C079-4147-87EB-6156412B4BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA59514-C079-4147-87EB-6156412B4BBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{E6D8DB6B-9B0C-4AB8-9AE5-51A7ED87A8CC} = {3E52BFFF-056D-471F-B841-B9069B7E2E82}
+		{7CA59514-C079-4147-87EB-6156412B4BBD} = {3E52BFFF-056D-471F-B841-B9069B7E2E82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4402B8B7-ACE3-45CE-A8A1-CC046AA15B6E}
